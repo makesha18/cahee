@@ -53,7 +53,8 @@
 }
 
 .ba-post-title {
-    margin-bottom: 12px;
+    margin: 0;
+    bottom: 55px;
 }
 
 .ba-post-meta {
@@ -63,7 +64,7 @@
 .ba-post-title,
 .ba-post-meta {
     position: absolute;
-    bottom: 20px;
+    bottom: 18px;
     left: 20px;
     right: 20px;
     z-index: 2;
